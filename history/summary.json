@@ -6,17 +6,15 @@
     "slug": "main",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1861,
-    "timeDay": 2892,
-    "timeWeek": 2057,
-    "timeMonth": 1965,
+    "timeDay": 3005,
+    "timeWeek": 1969,
+    "timeMonth": 1970,
     "timeYear": 1861,
-    "dailyMinutesDown": {
-      "2022-05-20": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
